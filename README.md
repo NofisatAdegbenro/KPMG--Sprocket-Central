@@ -22,10 +22,8 @@ Customer Demographic
 Customer Addresses
 Transactions data in the past 3 months
 
-
 ## Problem Statement
 Provide data-driven Insights with existing sales, demography, and customers data to aid new marketing You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
-
 
 ## Task 1: Data Quality Assessment
 The first task in this exercise is to “draft an email to the client identifying the data quality issues and strategies to mitigate this issues referring to the Data Quality Framework Table as a guide”. With this in mind, I start the preliminary data exploration using Microsoft Excel to identify ways of improving the quality of Sprocket Central Pty Ltd’s data.
